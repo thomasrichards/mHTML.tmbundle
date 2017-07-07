@@ -3,8 +3,8 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;div${1: id="${2:name}"}&gt;
-	${3:$TM_SELECTED_TEXT}
+	<string>&lt;div id="${1:name}"&gt;
+	${2:$TM_SELECTED_TEXT}
 &lt;/div&gt;</string>
 	<key>keyEquivalent</key>
 	<string>^@b</string>
